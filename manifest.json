@@ -1,14 +1,14 @@
 {
   "name": "iTalki Journal",
   "short_name": "iTalki Journal",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/italki-journal/",
+  "scope": "/italki-journal/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/italki-journal/favicon.svg",
       "sizes": "512x512"
     }
   ]
