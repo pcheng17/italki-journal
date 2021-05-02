@@ -1,4 +1,4 @@
-baseURL = "https://pcheng17.github.io/"
+baseURL = "https://pcheng17.github.io/italki-journal"
 languageCode = "en-us"
 title = "iTalki Journal"
 theme = "book"
