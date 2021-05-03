@@ -1,3 +1,9 @@
+---
+bookToc: true
+title: Medicine
+weight: 1
+---
+
 # Medicine
 
 ## Medical Departments

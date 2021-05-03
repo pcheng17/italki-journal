@@ -1,5 +1,7 @@
 ---
 bookToc: false
+title: Verbs
+weight: 2
 ---
 
 # Verbs

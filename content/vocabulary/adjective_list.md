@@ -1,5 +1,7 @@
 ---
 bookToc: false
+title: Adjectives
+weight: 3
 ---
 
 # Adjectives

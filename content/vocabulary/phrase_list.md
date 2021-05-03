@@ -1,5 +1,7 @@
 ---
 bookToc: false
+title: Phrases
+weight: 4
 ---
 
 # Phrases

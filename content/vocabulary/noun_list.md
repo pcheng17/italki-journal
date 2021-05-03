@@ -1,5 +1,7 @@
 ---
 bookToc: false
+title: Nouns
+weight: 1
 ---
 
 # Nouns

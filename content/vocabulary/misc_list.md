@@ -1,5 +1,7 @@
 ---
 bookToc: false
+title: Miscellaneous
+weight: 5
 ---
 
 # Miscellaneous
