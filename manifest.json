@@ -1,6 +1,6 @@
 {
-  "name": "iTalki Journal",
-  "short_name": "iTalki Journal",
+  "name": "Korean Journal",
+  "short_name": "Korean Journal",
   "start_url": "/italki-journal/",
   "scope": "/italki-journal/",
   "display": "standalone",
