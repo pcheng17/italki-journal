@@ -1,6 +1,6 @@
 {
-  "name": "Korean Journal",
-  "short_name": "Korean Journal",
+  "name": "Korean Notes",
+  "short_name": "Korean Notes",
   "start_url": "/korean-notes/",
   "scope": "/korean-notes/",
   "display": "standalone",
