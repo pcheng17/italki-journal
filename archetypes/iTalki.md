@@ -1,7 +1,7 @@
 ---
 bookToc: true
 title:
-url: ""
+url: "/journal/   /"
 ---
 
 # Title

@@ -1,6 +1,6 @@
 baseURL = "https://pcheng17.github.io/korean-notes"
 languageCode = "en-us"
-title = "Korean Journal"
+title = "Korean Notes"
 theme = "book"
 
 # Book configuration
