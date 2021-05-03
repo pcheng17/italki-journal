@@ -1,4 +1,4 @@
-baseURL = "https://pcheng17.github.io/korean-journal"
+baseURL = "https://pcheng17.github.io/korean-notes"
 languageCode = "en-us"
 title = "Korean Journal"
 theme = "book"

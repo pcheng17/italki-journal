@@ -1,6 +1,7 @@
 ---
 bookToc: false
 title: Miscellaneous
+url: "/miscellaneous/"
 weight: 5
 ---
 

@@ -1,6 +1,7 @@
 ---
 bookToc: false
 title: Adjectives
+url: "/adjectives/"
 weight: 3
 ---
 

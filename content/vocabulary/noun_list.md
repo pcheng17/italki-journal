@@ -1,6 +1,7 @@
 ---
 bookToc: false
 title: Nouns
+url: "/nouns/"
 weight: 1
 ---
 
