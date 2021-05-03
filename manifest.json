@@ -1,14 +1,14 @@
 {
   "name": "Korean Journal",
   "short_name": "Korean Journal",
-  "start_url": "/italki-journal/",
-  "scope": "/italki-journal/",
+  "start_url": "/korean-journal/",
+  "scope": "/korean-journal/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/italki-journal/favicon.svg",
+      "src": "/korean-journal/favicon.svg",
       "sizes": "512x512"
     }
   ]
