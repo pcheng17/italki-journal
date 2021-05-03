@@ -1,5 +1,5 @@
 ---
 bookFlatSection: true
-title: Grammar
+title: "Grammar"
 weight: 3
 ---

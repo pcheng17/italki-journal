@@ -1,5 +1,5 @@
 ---
 bookFlatSection: true
-title: iTalki
+title: "iTalki"
 weight: 1
 ---

@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
-title: Topics
+title: "Topics"
 weight: 6
 ---

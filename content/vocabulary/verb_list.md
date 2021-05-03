@@ -1,6 +1,6 @@
 ---
 bookToc: false
-title: Verbs
+title: "Verbs"
 url: "/verbs/"
 weight: 2
 ---

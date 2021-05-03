@@ -1,5 +1,5 @@
 ---
-title: Introduction
 bookToc: false
+title: "Introduction"
 type: docs
 ---

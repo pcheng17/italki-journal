@@ -1,5 +1,5 @@
 ---
 bookFlatSection: true
-title: Vocabulary
+title: "Vocabulary"
 weight: 2
 ---

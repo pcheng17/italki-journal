@@ -1,6 +1,6 @@
 ---
 bookToc: false
-title: Constructions
+title: "Constructions"
 url: "/constructions/"
 weight: 1
 ---

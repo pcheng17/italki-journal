@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
-title: Journal
+title: "Journal"
 weight: 1
 ---

@@ -1,10 +1,10 @@
 ---
 bookToc: true
-title:
-url: "/journal/   /"
+title: "{{ dateFormat "January 2, 2006" .Name }}"
+url: "/journal/{{ .Name }}/"
 ---
 
-# Title
+# {{ dateFormat "January 2, 2006" .Name }}
 
 ## Nouns
 

@@ -1,6 +1,6 @@
 ---
 bookToc: true
-title: Medicine
+title: "Medicine"
 url: "/medicine/"
 weight: 1
 ---

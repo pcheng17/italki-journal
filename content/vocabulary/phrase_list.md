@@ -1,6 +1,6 @@
 ---
 bookToc: false
-title: Phrases
+title: "Phrases"
 url: "/phrases/"
 weight: 4
 ---
