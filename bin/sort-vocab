@@ -34,6 +34,7 @@ for f in filtered_files:
 
     # Run sort command, replace unsorted file with sorted one, call 'git add'
     try:
+        print('Sorting {}'.format(srcPath))
         subprocess.check_output('{} {} > {}'.format(exePath, srcPath, dstPath), shell = True)
         subprocess.check_output('mv {} {}'.format(dstPath, srcPath), shell = True)
         subprocess.check_output('git add {}'.format(srcPath), shell = True)
