@@ -21,6 +21,7 @@ weight: 1
 | 아무거나  | anything                           |
 | 아파트    | apartment                          |
 | 외모      | appearance                         |
+| 팔        | arm                                |
 | 아로마    | aroma                              |
 | 선수      | athlete                            |
 | 분위기    | atmosphere                         |
@@ -39,6 +40,7 @@ weight: 1
 | 하숙집    | boarding house                     |
 | 청경채    | bok choy                           |
 | 책        | book                               |
+| 그릇      | bowl                               |
 | 팔지      | bracelet                           |
 | 아짐      | breakfast; morning                 |
 | 형재      | brother                            |
@@ -53,6 +55,7 @@ weight: 1
 | 의자      | chair                              |
 | 닭고기    | chicken                            |
 | 선택      | choice, selection, option          |
+| 젓가락    | chopstick                          |
 | 극장      | cinema                             |
 | 도시      | city                               |
 | 게        | clam                               |
@@ -69,6 +72,7 @@ weight: 1
 | 조미료    | condiments                         |
 | 계약      | contract                           |
 | 편리점    | convenience store                  |
+| 대화      | conversation (M)                   |
 | 요리      | cuisine                            |
 | 세제      | detergent                          |
 | 사전      | dictionary                         |
@@ -101,7 +105,10 @@ weight: 1
 | 돌잔치    | first birthday                     |
 | 볼고기    | fish                               |
 | 밀가루    | flour                              |
+| 발        | foot                               |
 | 이마      | forehead                           |
+| 포크      | fork                               |
+| 풀 수업   | full class                         |
 | 난리      | fuss, mess                         |
 | 나중      | future                             |
 | 마늘      | garlic                             |
@@ -132,6 +139,7 @@ weight: 1
 | 할로피노  | jalapeno                           |
 | 일본      | Japan                              |
 | 어린      | kid                                |
+| 칼        | knife                              |
 | 양고기    | lamb                               |
 | 왼손      | left hand                          |
 | 편지      | letter                             |
@@ -141,6 +149,7 @@ weight: 1
 | 저심      | lunch                              |
 | 집지      | magazine                           |
 | 주인공    | main character                     |
+| 예절      | manners                            |
 | 지도      | map                                |
 | 시장      | market                             |
 | 마트      | mart                               |
@@ -158,6 +167,7 @@ weight: 1
 | 목걸이    | necklace                           |
 | 신문      | news, newspaper                    |
 | 야시장    | night market                       |
+| 공강      | no class                           |
 | 코        | nose                               |
 | 코피      | nosebleed                          |
 | 공책      | notebook                           |
@@ -173,6 +183,7 @@ weight: 1
 | 연필      | pencil                             |
 | 후추      | pepper                             |
 | 선격      | personality                        |
+| 접시      | plate                              |
 | 똥        | poop                               |
 | 인구      | population                         |
 | 돼지고기  | pork                               |
@@ -213,8 +224,11 @@ weight: 1
 | 눈치      | social awareness                   |
 | 간장      | soy sauce                          |
 | 말하기    | speech                             |
+| 속도      | speed (M)                          |
 | 시금치    | spinach                            |
 | 영혼      | spirit, soul                       |
+| 숫가락    | spoon                              |
+| 운동장    | sports field, playground           |
 | 봄        | spring                             |
 | 단계      | stage, phase, step                 |
 | 스튜      | stew                               |

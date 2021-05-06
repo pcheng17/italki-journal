@@ -24,6 +24,7 @@ weight: 2
 | 초대를 받다   | to be invited (to receive an invitation) |
 | 근무하다      | to be on duty                            |
 | 승진하다      | to be promoted                           |
+| 야단을 맞다   | to be scolded                            |
 | 예약하다      | to book (hotel, restaurant)              |
 | 예매하다      | to book (tickets)                        |
 | 가져가다      | to bring (away)                          |
@@ -40,6 +41,7 @@ weight: 2
 | 들다          | to come in, to enter                     |
 | 나오다        | to come out, to appear                   |
 | 칭찬하다      | to complement                            |
+| 확인하다      | to confirm                               |
 | 연릭하다      | to contact                               |
 | 요리하다      | to cook                                  |
 | 사귀다        | to date someone                          |
@@ -105,11 +107,13 @@ weight: 2
 | 실례하다      | to parden                                |
 | 돌아가시다    | to pass away (formal)                    |
 | 쓰다듬다      | to pat                                   |
+| 들다          | to pick up                               |
 | 계획하다      | to plan                                  |
 | 심다          | to plant                                 |
 | 연습하다      | to practice                              |
 | 준비하다      | to prepare                               |
 | 약속하다      | to promise                               |
+| 놓다          | to put                                   |
 | 격리하다      | to quarantine                            |
 | 비가 오다     | to rain (literally, the rain comes)      |
 | 올리다        | to raise                                 |
@@ -126,10 +130,12 @@ weight: 2
 | 돌다오다      | to return (here)                         |
 | 복습하다      | to review                                |
 | 헤어지다      | to say goodbye, to part                  |
+| 야단일 치다   | to scold                                 |
 | 보다          | to see                                   |
 | 팔다          | to sell                                  |
 | 사워하다      | to shower                                |
 | 자다          | to sleep                                 |
+| 말씀하다      | to speak (honorific)                     |
 | 걸리다        | to spend (time), to catch (a cold)       |
 | 보내다        | to spend (time), to send                 |
 | 지내다        | to spend (time), to stay                 |

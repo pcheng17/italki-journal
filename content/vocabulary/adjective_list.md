@@ -18,6 +18,7 @@ weight: 3
 | 싸다       | to be cheap                          |
 | 친하다     | to be close                          |
 | 춥다       | to be cold                           |
+| 불편하다   | to be comfortable                    |
 | 편하다     | to be comfortable                    |
 | 복잡하다   | to be complicated                    |
 | 당황하다   | to be confused                       |
@@ -28,6 +29,7 @@ weight: 3
 | 다르다     | to be different (달라요)             |
 | 비싸다     | to be expensive                      |
 | 외성적이다 | to be extroverted                    |
+| 멀다       | to be far                            |
 | 빠르다     | to be fast                           |
 | 뚱뚱하다   | to be fat                            |
 | 배부르다   | to be full (present tense: 배불러요) |
@@ -50,9 +52,11 @@ weight: 3
 | 운이 좋다  | to be lucky                          |
 | 남성적이다 | to be manly                          |
 | 꼼꼼하다   | to be meticulous                     |
+| 가깝다     | to be near                           |
 | 새롭다     | to be new                            |
 | 시끄럽다   | to be noisy                          |
 | 어르다     | to be old                            |
+| 평범하다   | to be ordinary (M)                   |
 | 예쁘다     | to be pretty                         |
 | 조용하다   | to be quiet                          |
 | 시원하다   | to be refreshing                     |

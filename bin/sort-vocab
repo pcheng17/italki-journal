@@ -6,7 +6,7 @@ import sys
 
 
 VALID_NAMES = [
-    # 'content/iTalki',
+    'content/iTalki',
     'content/vocabulary'
 ]
 
