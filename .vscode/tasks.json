@@ -4,7 +4,10 @@
         {
             "label": "Start server",
             "type": "shell",
-            "command": "/mnt/c/ProgramData/chocolatey/lib/hugo-extended/tools/hugo.exe",
+            "command": "hugo",
+            "windows": {
+                "command": "/mnt/c/ProgramData/chocolatey/lib/hugo-extended/tools/hugo.exe"
+            },
             "args": [
                 "server",
                 "--gc",
