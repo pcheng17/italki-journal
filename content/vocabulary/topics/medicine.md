@@ -1,5 +1,6 @@
 ---
 bookToc: true
+sort: true
 title: "Medicine"
 url: "/medicine/"
 weight: 1

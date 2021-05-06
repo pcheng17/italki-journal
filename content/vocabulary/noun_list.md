@@ -1,5 +1,6 @@
 ---
 bookToc: false
+sort: true
 title: "Nouns"
 url: "/nouns/"
 weight: 1
@@ -245,3 +246,16 @@ weight: 1
 | 겨울      | winter                             |
 | 재택근무  | work from home                     |
 | 요그르트  | yogurt                             |
+| 사고      | accident                           |
+| 차이      | difference                         |
+| 요금      | fees                               |
+| 병원      | hospital                           |
+| 얼음 찜질 | ice pack                           |
+| 낮잠      | nap                                |
+| 수        | number                             |
+| 인구      | population                         |
+| 단계      | stage, phase, step                 |
+| 힘        | strength                           |
+| 교통      | traffic                            |
+| 시골      | village                            |
+| 세계      | world                              |

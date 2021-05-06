@@ -1,5 +1,6 @@
 ---
 bookToc: true
+sort: true
 title: "{{ dateFormat "January 2, 2006" .Name }}"
 url: "/journal/{{ .Name }}/"
 weight:

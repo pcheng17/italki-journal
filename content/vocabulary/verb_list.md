@@ -1,5 +1,6 @@
 ---
 bookToc: false
+sort: true
 title: "Verbs"
 url: "/verbs/"
 weight: 2
@@ -137,3 +138,26 @@ weight: 2
 | 물을 주다     | to water                                 |
 | 닦다          | to wipe                                  |
 | 일하다        | to work                                  |
+| 인정하다      | to agree                                 |
+| 생기다        | to appear                                |
+| 사귀다        | to date someone                          |
+| 입학하다      | to enter a school                        |
+| 발전하다      | to develop                               |
+| 빠지다        | to fall in                               |
+| 태어나다      | to be born                               |
+| 낳다          | to give birth                            |
+| 승진하다      | to be promoted                           |
+| 취직하다      | to get a job                             |
+| 은퇴하다      | to retire                                |
+| 죽다          | to die                                   |
+| 돌아가시다    | to pass away (formal)                    |
+| 오르다        | to ascend                                |
+| 내리다        | to descend                               |
+| 늘다          | to increase, to improve                  |
+| 줄다          | to decrease, to diminish                 |
+| 낫다          | to recover                               |
+| 회복하다      | to recover (M)                           |
+| 돌아가다      | to return (away)                         |
+| 돌아오다      | to return (here)                         |
+| 갔다 오다     | to go and come back                      |
+| 왔다 가다     | to come and leave                        |

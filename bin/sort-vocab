@@ -1,17 +1,41 @@
-#!/bin/bash
+#!/usr/bin/env python3
 
-flush() {
-    printf "%s\n" "${lines[@]:0:2}"
-    printf "%s\n" "${lines[@]:2}" | sort -t \| -n -k 2
-    lines=()
-}
+import os
+import subprocess
+import sys
 
-while IFS= read -r line; do
-    if [[ ${line:0:1} = "|" ]]; then
-        lines+=("$line")
-    else
-        (( ${#lines[@]} > 0 )) && flush
-        echo "$line"
-    fi
-done < $1
-(( ${#lines[@]} > 0 )) && flush
+
+VALID_NAMES = [
+    # 'content/iTalki',
+    'content/vocabulary'
+]
+
+# Get path to the git root
+cmd_root = 'git rev-parse --show-toplevel'
+root_dir = subprocess.check_output(cmd_root, shell = True).decode("utf-8").rstrip()
+exePath = os.path.join(root_dir, 'bin/sort-tables');
+
+# Get all unstaged and staged files that have been modified
+cmd_files = '{ git diff --name-only; git diff --name-only --staged; } | sort | uniq'
+file_list = subprocess.check_output(cmd_files, shell = True).decode("utf-8")
+changed_files = list(file_list.rstrip().split('\n'))
+
+# Keep only the markdown files
+filtered_files = [f for f in changed_files if f.endswith('.md')]
+filtered_files = [f for f in filtered_files if any(x in f for x in VALID_NAMES)]
+
+for f in filtered_files:
+    # Full file path
+    srcPath = os.path.join(root_dir, f)
+
+    # Construct full path for temporary sorted file
+    idx = srcPath.find('.md')
+    dstPath = srcPath[:idx] + '_sorted' + srcPath[idx:]
+
+    # Run sort command, replace unsorted file with sorted one, call 'git add'
+    try:
+        subprocess.check_output('{} {} > {}'.format(exePath, srcPath, dstPath), shell = True)
+        subprocess.check_output('mv {} {}'.format(dstPath, srcPath), shell = True)
+        subprocess.check_output('git add {}' + srcPath, shell = True)
+    except subprocess.CalledProcessError as e:
+        print(e.output)

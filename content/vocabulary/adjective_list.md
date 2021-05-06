@@ -1,5 +1,6 @@
 ---
 bookToc: false
+sort: true
 title: "Adjectives"
 url: "/adjectives/"
 weight: 3
@@ -81,3 +82,4 @@ weight: 3
 | 이상하아   | to be weird                          |
 | 어리다     | to be young                          |
 | 다양하다   | to have variety                      |
+| 빠르다     | to be fast                           |

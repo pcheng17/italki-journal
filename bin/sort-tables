@@ -1,0 +1,17 @@
+#!/bin/bash
+
+flush() {
+    printf "%s\n" "${lines[@]:0:2}"
+    printf "%s\n" "${lines[@]:2}" | sort -t \| -n -k 2
+    lines=()
+}
+
+while IFS= read -r line; do
+    if [[ ${line:0:1} = "|" ]]; then
+        lines+=("$line")
+    else
+        (( ${#lines[@]} > 0 )) && flush
+        echo "$line"
+    fi
+done < $1
+(( ${#lines[@]} > 0 )) && flush
