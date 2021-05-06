@@ -36,6 +36,6 @@ for f in filtered_files:
     try:
         subprocess.check_output('{} {} > {}'.format(exePath, srcPath, dstPath), shell = True)
         subprocess.check_output('mv {} {}'.format(dstPath, srcPath), shell = True)
-        subprocess.check_output('git add {}' + srcPath, shell = True)
+        subprocess.check_output('git add {}'.format(srcPath), shell = True)
     except subprocess.CalledProcessError as e:
         print(e.output)

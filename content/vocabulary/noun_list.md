@@ -10,6 +10,7 @@ weight: 1
 
 | Vocab     | Definition                         |
 | --------- | ---------------------------------- |
+| 사고      | accident                           |
 | 활동      | activity (M)                       |
 | 주소      | address                            |
 | 어른      | adult                              |
@@ -71,6 +72,7 @@ weight: 1
 | 요리      | cuisine                            |
 | 세제      | detergent                          |
 | 사전      | dictionary                         |
+| 차이      | difference                         |
 | 디퓨저    | diffuser                           |
 | 저녁      | dinner; evening                    |
 | 거리      | distance                           |
@@ -94,6 +96,7 @@ weight: 1
 | 얼굴      | face                               |
 | 단풍      | fall foliage                       |
 | 인기      | fame                               |
+| 요금      | fees                               |
 | 전투기    | fighter plane                      |
 | 돌잔치    | first birthday                     |
 | 볼고기    | fish                               |
@@ -114,9 +117,11 @@ weight: 1
 | 휴가      | holiday                            |
 | 고향      | hometown                           |
 | 숙제      | homework                           |
+| 병원      | hospital                           |
 | 집        | house, home                        |
 | 집들이    | house-warming party                |
 | 남편      | husband                            |
+| 얼음 찜질 | ice pack                           |
 | 이상형    | ideal type                         |
 | 재료      | ingredients                        |
 | 라면      | instant noodle                     |
@@ -149,6 +154,7 @@ weight: 1
 | 버섯      | mushroom                           |
 | 음악      | music                              |
 | 연극      | musical                            |
+| 낮잠      | nap                                |
 | 목걸이    | necklace                           |
 | 신문      | news, newspaper                    |
 | 야시장    | night market                       |
@@ -156,6 +162,7 @@ weight: 1
 | 코피      | nosebleed                          |
 | 공책      | notebook                           |
 | 아무것도  | nothing                            |
+| 수        | number                             |
 | 양파      | onion                              |
 | 소포      | package, parcel                    |
 | 택배      | parcel, package                    |
@@ -167,6 +174,7 @@ weight: 1
 | 후추      | pepper                             |
 | 선격      | personality                        |
 | 똥        | poop                               |
+| 인구      | population                         |
 | 돼지고기  | pork                               |
 | 가격      | price                              |
 | 가성비    | price-to-performance ratio         |
@@ -208,9 +216,11 @@ weight: 1
 | 시금치    | spinach                            |
 | 영혼      | spirit, soul                       |
 | 봄        | spring                             |
+| 단계      | stage, phase, step                 |
 | 스튜      | stew                               |
 | 스토리    | story                              |
 | 딸기      | strawberry                         |
+| 힘        | strength                           |
 | 유학      | study abroad                       |
 | 지하철    | subway                             |
 | 설탕      | sugar                              |
@@ -225,6 +235,7 @@ weight: 1
 | 물건      | things                             |
 | 시간      | time                               |
 | 휴지      | tissue                             |
+| 교통      | traffic                            |
 | 기차      | train                              |
 | 번역사    | translator                         |
 | 교통      | transportation                     |
@@ -235,6 +246,7 @@ weight: 1
 | 야채      | vegetable                          |
 | 전망      | view, outlook                      |
 | 경치      | view (scenery view)                |
+| 시골      | village                            |
 | 산책      | walk                               |
 | 수박      | watermelon                         |
 | 날씨      | weather                            |
@@ -245,17 +257,5 @@ weight: 1
 | 와인      | wine                               |
 | 겨울      | winter                             |
 | 재택근무  | work from home                     |
-| 요그르트  | yogurt                             |
-| 사고      | accident                           |
-| 차이      | difference                         |
-| 요금      | fees                               |
-| 병원      | hospital                           |
-| 얼음 찜질 | ice pack                           |
-| 낮잠      | nap                                |
-| 수        | number                             |
-| 인구      | population                         |
-| 단계      | stage, phase, step                 |
-| 힘        | strength                           |
-| 교통      | traffic                            |
-| 시골      | village                            |
 | 세계      | world                              |
+| 요그르트  | yogurt                             |

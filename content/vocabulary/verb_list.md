@@ -11,15 +11,19 @@ weight: 2
 | Vocab         | Definition                               |
 | ------------- | ---------------------------------------- |
 | 계시다        | honorific of 있다                        |
+| 인정하다      | to agree                                 |
 | 답하다        | to answer                                |
 | 생기다        | to appear, to look like                  |
 | 신청하다      | to apply                                 |
 | 도착하다      | to arrive                                |
+| 오르다        | to ascend                                |
 | 가능하다      | to be able to                            |
+| 태어나다      | to be born                               |
 | 되다          | to become                                |
 | 한가하다      | to be free, to not be busy               |
 | 초대를 받다   | to be invited (to receive an invitation) |
 | 근무하다      | to be on duty                            |
+| 승진하다      | to be promoted                           |
 | 예약하다      | to book (hotel, restaurant)              |
 | 예매하다      | to book (tickets)                        |
 | 가져가다      | to bring (away)                          |
@@ -32,12 +36,18 @@ weight: 2
 | 바꾸다        | to change                                |
 | 청소하다      | to clean                                 |
 | 닫다          | to close                                 |
+| 왔다 가다     | to come and leave                        |
 | 들다          | to come in, to enter                     |
 | 나오다        | to come out, to appear                   |
 | 칭찬하다      | to complement                            |
 | 연릭하다      | to contact                               |
 | 요리하다      | to cook                                  |
+| 사귀다        | to date someone                          |
+| 줄다          | to decrease, to diminish                 |
 | 출발하다      | to depart                                |
+| 내리다        | to descend                               |
+| 발전하다      | to develop                               |
+| 죽다          | to die                                   |
 | 설거지를 하다 | to do dishes                             |
 | 장을 보다     | to do groceries                          |
 | 빨래하다      | to do laundry                            |
@@ -46,9 +56,11 @@ weight: 2
 | 운전하다      | to drive                                 |
 | 밥을 먹다     | to eat rice                              |
 | 즐겁다        | to enjoy                                 |
+| 입학하다      | to enter a school                        |
 | 환전하다      | to exchange money                        |
 | 운동하다      | to exercise                              |
 | 기대하다      | to expect                                |
+| 빠지다        | to fall in                               |
 | 빠지다        | to fall into (especially water)          |
 | 느끼다        | to feel                                  |
 | 찾다          | to find, to withdraw                     |
@@ -58,6 +70,8 @@ weight: 2
 | 내리다        | to get off                               |
 | 막히다        | to get stuck                             |
 | 주다          | to give                                  |
+| 낳다          | to give birth                            |
+| 갔다 오다     | to go and come back                      |
 | 산책하다      | to go on a walk                          |
 | 구경하다      | to go sightseeing                        |
 | 잡다          | to grab, to catch                        |
@@ -66,6 +80,7 @@ weight: 2
 | 걸다          | to hang                                  |
 | 회의하다      | to have a meeting                        |
 | 돕다          | to help                                  |
+| 늘다          | to increase, to improve                  |
 | 초대하다      | to invite                                |
 | 알다          | to know                                  |
 | 배우다        | to learn                                 |
@@ -88,6 +103,7 @@ weight: 2
 | 열리다        | to open                                  |
 | 정리하다      | to organize                              |
 | 실례하다      | to parden                                |
+| 돌아가시다    | to pass away (formal)                    |
 | 쓰다듬다      | to pat                                   |
 | 계획하다      | to plan                                  |
 | 심다          | to plant                                 |
@@ -101,8 +117,11 @@ weight: 2
 | 받다          | to receive                               |
 | 추천하다      | to recommend                             |
 | 기록하다      | to record, to document                   |
+| 낫다          | to recover                               |
+| 회복하다      | to recover (M)                           |
 | 수리하다      | to repair                                |
 | 쉬다          | to rest                                  |
+| 은퇴하다      | to retire                                |
 | 돌아가다      | to return (away)                         |
 | 돌다오다      | to return (here)                         |
 | 복습하다      | to review                                |
@@ -138,26 +157,3 @@ weight: 2
 | 물을 주다     | to water                                 |
 | 닦다          | to wipe                                  |
 | 일하다        | to work                                  |
-| 인정하다      | to agree                                 |
-| 생기다        | to appear                                |
-| 사귀다        | to date someone                          |
-| 입학하다      | to enter a school                        |
-| 발전하다      | to develop                               |
-| 빠지다        | to fall in                               |
-| 태어나다      | to be born                               |
-| 낳다          | to give birth                            |
-| 승진하다      | to be promoted                           |
-| 취직하다      | to get a job                             |
-| 은퇴하다      | to retire                                |
-| 죽다          | to die                                   |
-| 돌아가시다    | to pass away (formal)                    |
-| 오르다        | to ascend                                |
-| 내리다        | to descend                               |
-| 늘다          | to increase, to improve                  |
-| 줄다          | to decrease, to diminish                 |
-| 낫다          | to recover                               |
-| 회복하다      | to recover (M)                           |
-| 돌아가다      | to return (away)                         |
-| 돌아오다      | to return (here)                         |
-| 갔다 오다     | to go and come back                      |
-| 왔다 가다     | to come and leave                        |

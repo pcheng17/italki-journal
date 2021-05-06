@@ -28,6 +28,7 @@ weight: 3
 | 다르다     | to be different (달라요)             |
 | 비싸다     | to be expensive                      |
 | 외성적이다 | to be extroverted                    |
+| 빠르다     | to be fast                           |
 | 뚱뚱하다   | to be fat                            |
 | 배부르다   | to be full (present tense: 배불러요) |
 | 여성적이다 | to be girly                          |
@@ -82,4 +83,3 @@ weight: 3
 | 이상하아   | to be weird                          |
 | 어리다     | to be young                          |
 | 다양하다   | to have variety                      |
-| 빠르다     | to be fast                           |
