@@ -10,6 +10,7 @@ weight: 3
 | Vocab      | Definition                           |
 | ---------- | ------------------------------------ |
 | 활발하다   | to be animated, lively               |
+| 부끄럽다   | to be ashamed                        |
 | 아름답다   | to be beautiful                      |
 | 크다       | to be big                            |
 | 행복하다   | to be blissful                       |
@@ -27,6 +28,7 @@ weight: 3
 | 궁금하다   | to be curious                        |
 | 위험하다   | to be dangerous                      |
 | 다르다     | to be different (달라요)             |
+| 창피하다   | to be embarrassed                    |
 | 비싸다     | to be expensive                      |
 | 외성적이다 | to be extroverted                    |
 | 멀다       | to be far                            |

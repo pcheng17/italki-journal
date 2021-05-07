@@ -144,6 +144,7 @@ weight: 1
 | 왼손       | left hand                          |
 | 편지       | letter                             |
 | 상추       | lettuce                            |
+| 대사       | line, dialogue, speech             |
 | 입슬       | lips                               |
 | 전제       | long-term deposit                  |
 | 저심       | lunch                              |
@@ -189,6 +190,7 @@ weight: 1
 | 돼지고기   | pork                               |
 | 가격       | price                              |
 | 가성비     | price-to-performance ratio         |
+| 제품       | product                            |
 | 토끼       | rabbit                             |
 | 라멘       | ramen                              |
 | 이유       | reason                             |
@@ -203,21 +205,25 @@ weight: 1
 | 강         | river                              |
 | 방         | room                               |
 | 월급       | salary                             |
+| 미용실     | salon                              |
 | 소금       | salt                               |
 | 목도리     | scarf                              |
 | 장학금     | scholarship                        |
 | 학교       | school                             |
 | 방학       | school holiday                     |
+| 학업       | school lesson                      |
 | 개강       | school start                       |
 | 점수       | score                              |
 | 참기름     | seasame oil                        |
 | 계절       | season                             |
 | 자리       | seat                               |
+| 어순       | sentence structure                 |
 | 백화점     | shopping mall                      |
 | 어깨       | shoulders                          |
 | 세면대     | sink, basin                        |
 | 자매       | sister                             |
 | 상황       | situation                          |
+| 기술       | skill, technique                   |
 | 잠         | sleep                              |
 | 달팽이     | snail                              |
 | 눈         | snow                               |
@@ -243,7 +249,9 @@ weight: 1
 | 수영       | swimming                           |
 | 책상       | table                              |
 | 태권도     | taekwondo                          |
+| 대상       | target                             |
 | 차         | tea                                |
+| 전문용어  | technical term                     |
 | 온도       | temperature                        |
 | 시험       | test                               |
 | 물건       | things                             |
