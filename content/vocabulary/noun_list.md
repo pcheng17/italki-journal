@@ -61,6 +61,7 @@ weight: 1
 | 게         | clam                               |
 | 수업       | class                              |
 | 반         | class (of people)                  |
+| 교실       | classroom                          |
 | 시계       | clock, watch                       |
 | 커피       | coffee                             |
 | 커피숖     | coffee shop                        |
@@ -84,6 +85,7 @@ weight: 1
 | 기숙사     | dorm                               |
 | 쌍꺼풀     | double eyelid                      |
 | 시내       | downtown                           |
+| 그림       | drawing, painting                  |
 | 옷         | dress                              |
 | 오리 고기  | duck (meat)                        |
 | 귀걸이     | earing                             |
@@ -173,8 +175,10 @@ weight: 1
 | 코피       | nosebleed                          |
 | 공책       | notebook                           |
 | 아무것도   | nothing                            |
+| 소설책     | novel                              |
 | 수         | number                             |
 | 양파       | onion                              |
+| 기회       | opportunity (M)                    |
 | 소포       | package, parcel                    |
 | 택배       | parcel, package                    |
 | 부모님     | parents                            |
@@ -203,6 +207,7 @@ weight: 1
 | 오른손     | right hand                         |
 | 반지       | ring (jewelry)                     |
 | 강         | river                              |
+| 암벽 등반  | rock climbing                      |
 | 방         | room                               |
 | 월급       | salary                             |
 | 미용실     | salon                              |

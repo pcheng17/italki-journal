@@ -30,5 +30,19 @@ is used to express that there is no problem with the action being done.
 
 [~(으)면 안
 되다](https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-80/#802)
-is used to express the meaning of "one must not... ." When used as a question, one is asking if
+is used to express the meaning of "one must not..." When used as a question, one is asking if
 there will be a problem if the action occurs.
+
+[~잖아요](https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-90/#901)
+is used to create a meaning that loosely translates to "as you know/you know/don't forget that..."
+
+[~(으)ㄴ 적이
+있다/없다](https://sayhikorean.blogspot.com/2018/11/korean-grammar-v-trying-new-things-and_4.html)
+is used to express having or not having a particular experience in the past. It corresponds to "have
+done/had" in English.
+
+[~을
+때](https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-42/#421)
+indicates a specific moment in which something happens. It corresponds to "when/while" in English.
+When used in present tense, the preceding verb/adjective is not conjugated, but when used in past
+tense, we do conjugate.

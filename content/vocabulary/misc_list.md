@@ -11,6 +11,7 @@ weight: 5
 | Vocab    | Definition           |
 | -------- | -------------------- |
 | 또       | again                |
+| 혼자     | alone                |
 | 도       | also                 |
 | 누구나   | anyone               |
 | 언제나   | anytime              |
@@ -18,7 +19,10 @@ weight: 5
 | 초에     | beginning of (month) |
 | 말에     | end of (month)       |
 | 특히     | especially           |
+| 예전에   | in the past          |
 | 전혀 안  | never                |
 | _박, _일 | _ nights, _ days     |
 | 개인     | personal, individual |
 | 거의 안  | rarely               |
+| 그런     | that type            |
+| 이런     | this type            |

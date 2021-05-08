@@ -21,6 +21,7 @@ weight: 2
 | 태어나다           | to be born                               |
 | 되다               | to become                                |
 | 한가하다           | to be free, to not be busy               |
+| 걸리다             | to be hung                               |
 | 초대를 받다        | to be invited (to receive an invitation) |
 | 근무하다           | to be on duty                            |
 | 승진하다           | to be promoted                           |
@@ -69,6 +70,7 @@ weight: 2
 | 끝나다             | to finish, to end                        |
 | 살을 찌다          | to gain weight                           |
 | 취직하다           | to get a job                             |
+| 끼다               | to get caught                            |
 | 내리다             | to get off                               |
 | 막히다             | to get stuck                             |
 | 주다               | to give                                  |
@@ -84,6 +86,7 @@ weight: 2
 | 돕다               | to help                                  |
 | 늘다               | to increase, to improve                  |
 | 초대하다           | to invite                                |
+| 조깅하다           | to jog                                   |
 | 알다               | to know                                  |
 | 배우다             | to learn                                 |
 | 떠나다             | to leave                                 |
@@ -103,6 +106,7 @@ weight: 2
 | 이사하다           | to move (relocate)                       |
 | 필요하다           | to need                                  |
 | 열리다             | to open                                  |
+| 배달을 시키다      | to order delivery                        |
 | 정리하다           | to organize                              |
 | 실례하다           | to parden                                |
 | 돌아가시다         | to pass away (formal)                    |
@@ -134,8 +138,10 @@ weight: 2
 | 보다               | to see                                   |
 | 팔다               | to sell                                  |
 | 사워하다           | to shower                                |
+| 구경하다           | to sightsee                              |
 | 자다               | to sleep                                 |
 | 말씀하다           | to speak (honorific)                     |
+| 걸리다             | to spend (time)                          |
 | 걸리다             | to spend (time), to catch (a cold)       |
 | 보내다             | to spend (time), to send                 |
 | 지내다             | to spend (time), to stay                 |
@@ -154,6 +160,7 @@ weight: 2
 | 생각하다           | to think                                 |
 | 만지다             | to touch                                 |
 | 갈아타다           | to transfer                              |
+| 끄다               | to turn off                              |
 | 쓰다               | to use                                   |
 | 컴퓨터를 하다      | to use the computer                      |
 | 기다리다           | to wait                                  |
