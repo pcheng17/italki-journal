@@ -63,7 +63,6 @@ weight: 2
 | 환전하다           | to exchange money                        |
 | 운동하다           | to exercise                              |
 | 기대하다           | to expect                                |
-| 빠지다             | to fall in                               |
 | 빠지다             | to fall into (especially water)          |
 | 느끼다             | to feel                                  |
 | 찾다               | to find, to withdraw                     |
