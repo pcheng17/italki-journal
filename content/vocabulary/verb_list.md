@@ -71,6 +71,7 @@ weight: 2
 | 살을 찌다          | to gain weight                           |
 | 취직하다           | to get a job                             |
 | 끼다               | to get caught                            |
+| 결혼하다           | to get married                           |
 | 내리다             | to get off                               |
 | 막히다             | to get stuck                             |
 | 주다               | to give                                  |
