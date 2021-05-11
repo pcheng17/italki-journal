@@ -12,6 +12,7 @@ weight: 2
 | ------------------ | ---------------------------------------- |
 | 계시다             | honorific of 있다                        |
 | 인정하다           | to agree                                 |
+| 대답하다           | to answer                                |
 | 답하다             | to answer                                |
 | 생기다             | to appear, to look like                  |
 | 신청하다           | to apply                                 |
@@ -127,6 +128,7 @@ weight: 2
 | 낫다               | to recover                               |
 | 회복하다           | to recover (M)                           |
 | 수리하다           | to repair                                |
+| 답장하다           | to reply (e.g. to a message)             |
 | 쉬다               | to rest                                  |
 | 은퇴하다           | to retire                                |
 | 돌아가다           | to return (away)                         |
