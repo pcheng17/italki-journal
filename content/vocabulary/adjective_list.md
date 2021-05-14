@@ -74,7 +74,6 @@ weight: 3
 | 비슷하다   | to be similar                        |
 | 닮다       | to be similar                        |
 | 간단하다   | to be simple                         |
-| 날씬하다   | to be skinny                         |
 | 잠이 오다  | to be sleepy (e.g. knodding off)     |
 | 날씬하다   | to be slim                           |
 | 작다       | to be small                          |
