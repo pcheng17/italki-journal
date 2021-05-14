@@ -9,14 +9,17 @@ weight: 3
 # Adjectives
 | Vocab      | Definition                           |
 | ---------- | ------------------------------------ |
+| 적응하다   | to adapt                             |
 | 활발하다   | to be animated, lively               |
 | 부끄럽다   | to be ashamed                        |
 | 아름답다   | to be beautiful                      |
 | 크다       | to be big                            |
 | 행복하다   | to be blissful                       |
 | 심심하다   | to be boring                         |
+| 밝다       | to be bright                         |
 | 바쁘다     | to be busy                           |
 | 싸다       | to be cheap                          |
+| 친하다     | to be close (relationship)           |
 | 춥다       | to be cold                           |
 | 불편하다   | to be comfortable                    |
 | 편하다     | to be comfortable                    |
@@ -26,10 +29,12 @@ weight: 3
 | 멋있다     | to be cool                           |
 | 궁금하다   | to be curious                        |
 | 위험하다   | to be dangerous                      |
+| 진하다     | to be dark                           |
 | 다르다     | to be different (달라요)             |
 | 창피하다   | to be embarrassed                    |
 | 비싸다     | to be expensive                      |
 | 외성적이다 | to be extroverted                    |
+| 익숙하다   | to be familiar with                  |
 | 멀다       | to be far                            |
 | 빠르다     | to be fast                           |
 | 뚱뚱하다   | to be fat                            |
@@ -46,6 +51,7 @@ weight: 3
 | 내성적이다 | to be introverted                    |
 | 적당하다   | to be just right                     |
 | 친절하다   | to be kind                           |
+| 지각하다   | to be late (for school or work)      |
 | 게으르다   | to be lazy                           |
 | 남다       | to be left                           |
 | 가볍다     | to be light                          |
@@ -68,6 +74,7 @@ weight: 3
 | 비슷하다   | to be similar                        |
 | 닮다       | to be similar                        |
 | 간단하다   | to be simple                         |
+| 날씬하다   | to be skinny                         |
 | 잠이 오다  | to be sleepy (e.g. knodding off)     |
 | 날씬하다   | to be slim                           |
 | 작다       | to be small                          |
@@ -75,6 +82,7 @@ weight: 3
 | 사교적이다 | to be social                         |
 | 특별하다   | to be special                        |
 | 맵다       | to be spicy                          |
+| 적당하다   | to be suitable                       |
 | 맑다       | to be sunny                          |
 | 놀라다     | to be surprised                      |
 | 높다       | to be tall                           |

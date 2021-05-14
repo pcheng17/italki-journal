@@ -44,6 +44,7 @@ weight: 1
 | 팔지       | bracelet                           |
 | 아짐       | breakfast; morning                 |
 | 형재       | brother                            |
+| 버블티     | bubble tea                         |
 | 막국수     | buckweat noodle                    |
 | 건물       | building                           |
 | 양배추     | cabbage                            |
@@ -56,6 +57,7 @@ weight: 1
 | 닭고기     | chicken                            |
 | 선택       | choice, selection, option          |
 | 젓가락     | chopstick                          |
+| 집안일     | chores                             |
 | 극장       | cinema                             |
 | 도시       | city                               |
 | 게         | clam                               |
@@ -81,6 +83,7 @@ weight: 1
 | 디퓨저     | diffuser                           |
 | 저녁       | dinner; evening                    |
 | 거리       | distance                           |
+| 달러       | dollar                             |
 | 문         | door                               |
 | 기숙사     | dorm                               |
 | 쌍꺼풀     | double eyelid                      |
@@ -98,6 +101,7 @@ weight: 1
 | 추억       | experience                         |
 | 외부       | exterior, outside                  |
 | 눈         | eye                                |
+| 눈썹       | eyebrow                            |
 | 눈썹       | eyebrows                           |
 | 얼굴       | face                               |
 | 단풍       | fall foliage                       |
@@ -136,6 +140,7 @@ weight: 1
 | 라면       | instant noodle                     |
 | 관심       | interest                           |
 | 통역사     | interpretor                        |
+| 투자       | investment                         |
 | 초대       | invitation                         |
 | 섬         | island                             |
 | 할로피노   | jalapeno                           |
@@ -163,6 +168,7 @@ weight: 1
 | 영화       | movie                              |
 | 영화배우   | movie actor/actress                |
 | 영화관     | movie theater                      |
+| 근육       | muscle                             |
 | 버섯       | mushroom                           |
 | 음악       | music                              |
 | 연극       | musical                            |
@@ -188,6 +194,7 @@ weight: 1
 | 연필       | pencil                             |
 | 후추       | pepper                             |
 | 선격       | personality                        |
+| 담당       | person in charge                   |
 | 접시       | plate                              |
 | 똥         | poop                               |
 | 인구       | population                         |
@@ -249,6 +256,7 @@ weight: 1
 | 유학       | study abroad                       |
 | 지하철     | subway                             |
 | 설탕       | sugar                              |
+| 당도       | sugar level (M)                    |
 | 여름       | summer                             |
 | 수술       | surgery                            |
 | 수영       | swimming                           |
@@ -268,6 +276,7 @@ weight: 1
 | 교통       | transportation                     |
 | 과외       | tutoring                           |
 | 우산       | umbrella                           |
+| 단위       | unit (M)                           |
 | 대학교     | university                         |
 | 휴가       | vacation                           |
 | 야채       | vegetable                          |

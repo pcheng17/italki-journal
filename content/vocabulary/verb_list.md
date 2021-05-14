@@ -31,6 +31,7 @@ weight: 2
 | 예매하다           | to book (tickets)                        |
 | 가져가다           | to bring (away)                          |
 | 가져오다           | to bring (here)                          |
+| 가져오다           | to bring here                            |
 | 우연히 만나다      | to bump into                             |
 | 사다               | to buy                                   |
 | 부르다             | to call, to sing (불러요)                |
@@ -116,6 +117,7 @@ weight: 2
 | 계획하다           | to plan                                  |
 | 심다               | to plant                                 |
 | 연습하다           | to practice                              |
+| 선호하다           | to prefer                                |
 | 준비하다           | to prepare                               |
 | 약속하다           | to promise                               |
 | 놓다               | to put                                   |
@@ -153,6 +155,7 @@ weight: 2
 | 수영하다           | to swim                                  |
 | 시험을 보다        | to take an exam                          |
 | 데려가다           | to take (away)                           |
+| 가져가다           | to take away                             |
 | 데려오다           | to take (here)                           |
 | 찍다               | to take pictures                         |
 | 가지다             | to take, to hold                         |
@@ -172,3 +175,4 @@ weight: 2
 | 물을 주다          | to water                                 |
 | 닦다               | to wipe                                  |
 | 일하다             | to work                                  |
+| 적다               | to write                                 |
