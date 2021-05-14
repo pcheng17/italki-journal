@@ -17,7 +17,6 @@ weight: 3
 | 심심하다   | to be boring                         |
 | 바쁘다     | to be busy                           |
 | 싸다       | to be cheap                          |
-| 친하다     | to be close                          |
 | 춥다       | to be cold                           |
 | 불편하다   | to be comfortable                    |
 | 편하다     | to be comfortable                    |

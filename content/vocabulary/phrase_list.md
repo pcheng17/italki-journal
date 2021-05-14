@@ -16,3 +16,4 @@ weight: 4
 | 오래 만이에요    | Long time no see    |
 | 당연하죠         | Of course           |
 | 다음에 봐요      | See you next time   |
+| 시간 빠리 가요   | Time flies          |
