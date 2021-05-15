@@ -54,6 +54,7 @@ weight: 3
 | 게으르다   | to be lazy                           |
 | 남다       | to be left                           |
 | 가볍다     | to be light                          |
+| 연하다     | to be light (in color or taste)      |
 | 길다       | to be long                           |
 | 운이 좋다  | to be lucky                          |
 | 남성적이다 | to be manly                          |
