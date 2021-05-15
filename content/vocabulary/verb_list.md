@@ -11,6 +11,7 @@ weight: 2
 | Vocab              | Definition                               |
 | ------------------ | ---------------------------------------- |
 | 계시다             | honorific of 있다                        |
+| 적응하다           | to adapt                                 |
 | 인정하다           | to agree                                 |
 | 대답하다           | to answer                                |
 | 답하다             | to answer                                |

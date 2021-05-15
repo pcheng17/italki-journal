@@ -9,7 +9,6 @@ weight: 3
 # Adjectives
 | Vocab      | Definition                           |
 | ---------- | ------------------------------------ |
-| 적응하다   | to adapt                             |
 | 활발하다   | to be animated, lively               |
 | 부끄럽다   | to be ashamed                        |
 | 아름답다   | to be beautiful                      |
