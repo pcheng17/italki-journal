@@ -176,4 +176,4 @@ weight: 2
 | 물을 주다          | to water                                 |
 | 닦다               | to wipe                                  |
 | 일하다             | to work                                  |
-| 적다               | to write                                 |
+| 적다, 쓰다         | to write                                 |
