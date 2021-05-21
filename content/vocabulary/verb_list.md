@@ -48,6 +48,7 @@ weight: 2
 | 확인하다           | to confirm                               |
 | 연릭하다           | to contact                               |
 | 요리하다           | to cook                                  |
+| 자르다             | to cut                                   |
 | 사귀다             | to date someone                          |
 | 줄다               | to decrease, to diminish                 |
 | 출발하다           | to depart                                |

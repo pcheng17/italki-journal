@@ -83,6 +83,7 @@ weight: 3
 | 맵다       | to be spicy                          |
 | 적당하다   | to be suitable                       |
 | 맑다       | to be sunny                          |
+| 맑다       | to be sunny, to be clear             |
 | 놀라다     | to be surprised                      |
 | 높다       | to be tall                           |
 | 똑같다     | to be the same                       |

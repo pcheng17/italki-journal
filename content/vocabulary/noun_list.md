@@ -31,6 +31,7 @@ weight: 1
 | 공         | ball                               |
 | 은행       | bank                               |
 | 야구       | baseball                           |
+| 농구       | basketball                         |
 | 콩나물     | bean sprouts                       |
 | 소고기     | beef                               |
 | 자전거     | bicycle                            |
@@ -54,6 +55,7 @@ weight: 1
 | 당근       | carrot                             |
 | 핸드폰     | cell phone                         |
 | 의자       | chair                              |
+| 변화       | change (difference)                |
 | 닭고기     | chicken                            |
 | 선택       | choice, selection, option          |
 | 젓가락     | chopstick                          |
@@ -98,6 +100,7 @@ weight: 1
 | 지우개     | eraser                             |
 | 행사       | event                              |
 | 예문       | example                            |
+| 비용, 가격 | expenses                           |
 | 추억       | experience                         |
 | 외부       | exterior, outside                  |
 | 눈         | eye                                |
@@ -164,6 +167,7 @@ weight: 1
 | 기억       | memory                             |
 | 문자       | message                            |
 | 실수       | mistake                            |
+| 달         | month                              |
 | 입         | mouth                              |
 | 영화       | movie                              |
 | 영화배우   | movie actor/actress                |
@@ -195,10 +199,12 @@ weight: 1
 | 후추       | pepper                             |
 | 선격       | personality                        |
 | 담당       | person in charge                   |
+| 탁구       | ping pong                          |
 | 접시       | plate                              |
 | 똥         | poop                               |
 | 인구       | population                         |
 | 돼지고기   | pork                               |
+| 발표       | presentation                       |
 | 가격       | price                              |
 | 가성비     | price-to-performance ratio         |
 | 제품       | product                            |
@@ -239,6 +245,7 @@ weight: 1
 | 잠         | sleep                              |
 | 달팽이     | snail                              |
 | 눈         | snow                               |
+| 축구       | soccer                             |
 | 눈치       | social awareness                   |
 | 간장       | soy sauce                          |
 | 말하기     | speech                             |
@@ -283,6 +290,7 @@ weight: 1
 | 전망       | view, outlook                      |
 | 경치       | view (scenery view)                |
 | 시골       | village                            |
+| 배구       | volleyball                         |
 | 산책       | walk                               |
 | 수박       | watermelon                         |
 | 날씨       | weather                            |

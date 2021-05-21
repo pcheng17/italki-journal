@@ -20,11 +20,14 @@ weight: 5
 | 초에      | beginning of (month) |
 | 말에      | end of (month)       |
 | 특히      | especially           |
+| 가짜      | fake                 |
 | 예전에    | in the past          |
+| 이따가    | later                |
 | 전혀 안   | never                |
 | _박, _일  | _ nights, _ days     |
 | 개인      | personal, individual |
 | 거의 안   | rarely               |
+| 진짜      | real                 |
 | 인생 단계 | stage of life        |
 | 그런      | that type            |
 | 이런      | this type            |
