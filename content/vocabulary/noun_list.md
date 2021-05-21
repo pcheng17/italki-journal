@@ -100,7 +100,8 @@ weight: 1
 | 지우개     | eraser                             |
 | 행사       | event                              |
 | 예문       | example                            |
-| 비용, 가격 | expenses                           |
+| 비용       | expenses                           |
+| 가격       | expenses                           |
 | 추억       | experience                         |
 | 외부       | exterior, outside                  |
 | 눈         | eye                                |
@@ -160,7 +161,8 @@ weight: 1
 | 저심       | lunch                              |
 | 집지       | magazine                           |
 | 주인공     | main character                     |
-| 예절, 예이 | manners                            |
+| 예절       | manners                            |
+| 예이       | manners                            |
 | 지도       | map                                |
 | 시장       | market                             |
 | 마트       | mart                               |

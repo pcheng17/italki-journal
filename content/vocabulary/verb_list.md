@@ -53,7 +53,8 @@ weight: 2
 | 줄다               | to decrease, to diminish                 |
 | 출발하다           | to depart                                |
 | 내리다             | to descend                               |
-| 발전하다, 개발하다 | to develop                               |
+| 발전하다           | to develop                               |
+| 개발하다           | to develop                               |
 | 죽다               | to die                                   |
 | 설거지를 하다      | to do dishes                             |
 | 장을 보다          | to do groceries                          |

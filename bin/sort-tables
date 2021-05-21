@@ -2,7 +2,7 @@
 
 flush() {
     printf "%s\n" "${lines[@]:0:2}"
-    printf "%s\n" "${lines[@]:2}" | sort -t \| -n -k 2 | uniq -f 0
+    printf "%s\n" "${lines[@]:2}" | sort -t \| -n -k 2
     lines=()
 }
 
