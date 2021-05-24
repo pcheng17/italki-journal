@@ -46,3 +46,11 @@ done/had" in English.
 indicates a specific moment in which something happens. It corresponds to "when/while" in English.
 When used in present tense, the preceding verb/adjective is not conjugated, but when used in past
 tense, we do conjugate.
+
+[Adj + ~아/어지다](https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-18/#a)
+changes the meaning of adjective from "be (adjective)" to "get/become (adjective)."
+
+[Verb + ~게
+되](https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-94/#941)
+can be translated to the phrase "to end up." Using this form indicates that the events that occured
+happened out of one's control, almost by change or fate.
