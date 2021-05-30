@@ -9,6 +9,7 @@ weight: 3
 # Adjectives
 | Vocab      | Definition                           |
 | ---------- | ------------------------------------ |
+| 적당하다   | to be adequate                       |
 | 활발하다   | to be animated, lively               |
 | 부끄럽다   | to be ashamed                        |
 | 아름답다   | to be beautiful                      |
@@ -31,12 +32,14 @@ weight: 3
 | 진하다     | to be dark                           |
 | 다르다     | to be different (달라요)             |
 | 창피하다   | to be embarrassed                    |
+| 즐겁다     | to be enjoyable                      |
 | 비싸다     | to be expensive                      |
 | 외성적이다 | to be extroverted                    |
 | 익숙하다   | to be familiar with                  |
 | 멀다       | to be far                            |
 | 빠르다     | to be fast                           |
 | 뚱뚱하다   | to be fat                            |
+| 적다       | to be few (opposite of 많다)         |
 | 배부르다   | to be full (present tense: 배불러요) |
 | 여성적이다 | to be girly                          |
 | 기쁘다     | to be happy                          |
@@ -48,7 +51,6 @@ weight: 3
 | 배고프다   | to be hungry                         |
 | 재미있다   | to be interesting/fun                |
 | 내성적이다 | to be introverted                    |
-| 적당하다   | to be just right                     |
 | 친절하다   | to be kind                           |
 | 지각하다   | to be late (for school or work)      |
 | 게으르다   | to be lazy                           |
@@ -81,7 +83,6 @@ weight: 3
 | 사교적이다 | to be social                         |
 | 특별하다   | to be special                        |
 | 맵다       | to be spicy                          |
-| 적당하다   | to be suitable                       |
 | 맑다       | to be sunny                          |
 | 맑다       | to be sunny, to be clear             |
 | 놀라다     | to be surprised                      |
