@@ -12,6 +12,7 @@ weight: 2
 | ------------- | ---------------------------------------- |
 | 계시다        | honorific of 있다                        |
 | 적응하다      | to adapt                                 |
+| 추가하다      | to add on                                |
 | 인정하다      | to agree                                 |
 | 대답하다      | to answer                                |
 | 답하다        | to answer                                |
@@ -44,6 +45,7 @@ weight: 2
 | 왔다 가다     | to come and leave                        |
 | 들다          | to come in, to enter                     |
 | 나오다        | to come out, to appear                   |
+| 보러 오다     | to come to see                           |
 | 칭찬하다      | to complement                            |
 | 확인하다      | to confirm                               |
 | 연릭하다      | to contact                               |
@@ -63,6 +65,7 @@ weight: 2
 | 마시다        | to drink                                 |
 | 운전하다      | to drive                                 |
 | 밥을 먹다     | to eat rice                              |
+| 마치다        | to end, to finish (끝나다)               |
 | 즐겁다        | to enjoy                                 |
 | 입학하다      | to enter a school                        |
 | 환전하다      | to exchange money                        |
@@ -134,6 +137,7 @@ weight: 2
 | 기록하다      | to record, to document                   |
 | 낫다          | to recover                               |
 | 회복하다      | to recover (M)                           |
+| 풀다          | to release, to solve                     |
 | 수리하다      | to repair                                |
 | 답장하다      | to reply (e.g. to a message)             |
 | 쉬다          | to rest                                  |
@@ -155,6 +159,7 @@ weight: 2
 | 지내다        | to spend (time), to stay                 |
 | 정지하다      | to stop                                  |
 | 공부하다      | to study                                 |
+| 고생하다      | to suffer from                           |
 | 맞다          | to suit                                  |
 | 수영하다      | to swim                                  |
 | 시험을 보다   | to take an exam                          |

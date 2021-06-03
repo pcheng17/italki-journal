@@ -26,8 +26,10 @@ weight: 5
 | 먼저      | first                                |
 | 예전에    | in the past                          |
 | 이따가    | later                                |
+| 꼭        | must                                 |
 | 전혀 안   | never                                |
 | _박, _일  | _ nights, _ days                     |
+| 잠깐      | passing moment                       |
 | 개인      | personal, individual                 |
 | 거의 안   | rarely                               |
 | 진짜      | real                                 |

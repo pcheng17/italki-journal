@@ -27,6 +27,7 @@ weight: 1
 | 선수      | athlete                            |
 | 분위기    | atmosphere                         |
 | 가을      | autumn                             |
+| 곱슬머리  | baby hair                          |
 | 배경      | background                         |
 | 가방      | bag/backpack                       |
 | 공        | ball                               |
@@ -49,6 +50,7 @@ weight: 1
 | 버블티    | bubble tea                         |
 | 막국수    | buckweat noodle                    |
 | 건물      | building                           |
+| 단추      | button                             |
 | 양배추    | cabbage                            |
 | 카페      | cafe                               |
 | 카메라    | camera                             |
@@ -96,8 +98,10 @@ weight: 1
 | 술 자리   | drinking room                      |
 | 오리 고기 | duck (meat)                        |
 | 귀걸이    | earing                             |
+| 지구      | Earth                              |
 | 계란      | egg                                |
 | 영국      | England                            |
+| 환경      | environment                        |
 | 분위기    | environment, physical surroundings |
 | 지우개    | eraser                             |
 | 행사      | event                              |
@@ -106,6 +110,7 @@ weight: 1
 | 가격      | expenses                           |
 | 추억      | experience                         |
 | 경험      | experience                         |
+| 표현      | expression                         |
 | 외부      | exterior, outside                  |
 | 눈        | eye                                |
 | 눈썹      | eyebrow                            |
@@ -127,6 +132,7 @@ weight: 1
 | 마늘      | garlic                             |
 | 모임      | gathering                          |
 | 안경      | glasses                            |
+| 온난화    | global warming                     |
 | 물건      | goods                              |
 | 졸업식    | graduation                         |
 | 헬스장    | gym                                |
@@ -173,6 +179,8 @@ weight: 1
 | 추억      | memories                           |
 | 기억      | memory                             |
 | 문자      | message                            |
+| 방식      | method                             |
+| 방법      | method                             |
 | 실수      | mistake                            |
 | 달        | month                              |
 | 입        | mouth                              |
@@ -207,10 +215,12 @@ weight: 1
 | 연필      | pencil                             |
 | 후추      | pepper                             |
 | 공연      | performance                        |
+| 파마      | perm                               |
 | 선격      | personality                        |
 | 담당      | person in charge                   |
 | 탁구      | ping pong                          |
 | 접시      | plate                              |
+| 오염      | pollution                          |
 | 똥        | poop                               |
 | 인구      | population                         |
 | 돼지고기  | pork                               |
@@ -270,8 +280,11 @@ weight: 1
 | 단계      | stage, phase, step                 |
 | 스튜      | stew                               |
 | 스토리    | story                              |
+| 직머리    | straight hair                      |
 | 딸기      | strawberry                         |
 | 힘        | strength                           |
+| 스트레스  | stress                             |
+| 스트레칭  | stretching                         |
 | 유학      | study abroad                       |
 | 지하철    | subway                             |
 | 설탕      | sugar                              |
