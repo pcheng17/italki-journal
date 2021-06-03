@@ -61,6 +61,7 @@ weight: 3
 | 운이 좋다  | to be lucky                          |
 | 남성적이다 | to be manly                          |
 | 꼼꼼하다   | to be meticulous                     |
+| 현대적이다 | to be modern                         |
 | 가깝다     | to be near                           |
 | 새롭다     | to be new                            |
 | 시끄럽다   | to be noisy                          |

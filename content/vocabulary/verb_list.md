@@ -160,6 +160,7 @@ weight: 2
 | 정지하다      | to stop                                  |
 | 공부하다      | to study                                 |
 | 고생하다      | to suffer from                           |
+| 고생하다      | to suffer from                           |
 | 맞다          | to suit                                  |
 | 수영하다      | to swim                                  |
 | 시험을 보다   | to take an exam                          |

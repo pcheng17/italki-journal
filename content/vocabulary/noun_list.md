@@ -82,6 +82,7 @@ weight: 1
 | 편리점    | convenience store                  |
 | 대화      | conversation (M)                   |
 | 요리      | cuisine                            |
+| 형용      | description                        |
 | 세제      | detergent                          |
 | 사전      | dictionary                         |
 | 차이      | difference                         |
@@ -123,6 +124,7 @@ weight: 1
 | 돌잔치    | first birthday                     |
 | 볼고기    | fish                               |
 | 밀가루    | flour                              |
+| 식비      | food expenses                      |
 | 발        | foot                               |
 | 이마      | forehead                           |
 | 포크      | fork                               |
@@ -228,6 +230,7 @@ weight: 1
 | 가격      | price                              |
 | 가성비    | price-to-performance ratio         |
 | 제품      | product                            |
+| 품질      | quality                            |
 | 토끼      | rabbit                             |
 | 라멘      | ramen                              |
 | 이유      | reason                             |
