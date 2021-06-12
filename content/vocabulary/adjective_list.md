@@ -49,6 +49,7 @@ weight: 3
 | 무겁다     | to be heavy                          |
 | 덥다       | to be hot                            |
 | 배고프다   | to be hungry                         |
+| 불가능하다 | to be impossible                     |
 | 재미있다   | to be interesting/fun                |
 | 내성적이다 | to be introverted                    |
 | 친절하다   | to be kind                           |
@@ -59,6 +60,7 @@ weight: 3
 | 연하다     | to be light (in color or taste)      |
 | 길다       | to be long                           |
 | 운이 좋다  | to be lucky                          |
+| 고급스럽다 | to be luxurious                      |
 | 남성적이다 | to be manly                          |
 | 꼼꼼하다   | to be meticulous                     |
 | 현대적이다 | to be modern                         |
@@ -67,6 +69,7 @@ weight: 3
 | 시끄럽다   | to be noisy                          |
 | 어르다     | to be old                            |
 | 평범하다   | to be ordinary (M)                   |
+| 가능하다   | to be possible                       |
 | 예쁘다     | to be pretty                         |
 | 조용하다   | to be quiet                          |
 | 시원하다   | to be refreshing                     |
@@ -79,6 +82,7 @@ weight: 3
 | 간단하다   | to be simple                         |
 | 잠이 오다  | to be sleepy (e.g. knodding off)     |
 | 날씬하다   | to be slim                           |
+| 느리다     | to be slow                           |
 | 작다       | to be small                          |
 | 똑똑하다   | to be smart                          |
 | 사교적이다 | to be social                         |

@@ -14,17 +14,21 @@ weight: 5
 | 거의      | almost                               |
 | 거의 없다 | almost never                         |
 | 혼자      | alone                                |
+| 이미      | already                              |
 | 도        | also                                 |
 | 누구나    | anyone                               |
 | 언제나    | anytime                              |
 | 어디나    | anywhere                             |
+| 정도      | approximately                        |
 | 왜냐하면  | Because... (beginning of a sentence) |
 | 초에      | beginning of (month)                 |
 | 말에      | end of (month)                       |
 | 특히      | especially                           |
 | 가짜      | fake                                 |
 | 먼저      | first                                |
+| 일위      | first place                          |
 | 예전에    | in the past                          |
+| 딱        | just right                           |
 | 이따가    | later                                |
 | 꼭        | must                                 |
 | 전혀 안   | never                                |
@@ -36,3 +40,4 @@ weight: 5
 | 인생 단계 | stage of life                        |
 | 그런      | that type                            |
 | 이런      | this type                            |
+| 무조건    | unconditionally                      |

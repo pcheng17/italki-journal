@@ -10,6 +10,8 @@ weight: 1
 
 | Vocab     | Definition                         |
 | --------- | ---------------------------------- |
+| 실력      | ability                            |
+| 능력      | ability                            |
 | 사고      | accident                           |
 | 활동      | activity (M)                       |
 | 주소      | address                            |
@@ -119,8 +121,10 @@ weight: 1
 | 얼굴      | face                               |
 | 단풍      | fall foliage                       |
 | 인기      | fame                               |
+| 애창곡    | favorite song                      |
 | 요금      | fees                               |
 | 전투기    | fighter plane                      |
+| 기말고사  | final                              |
 | 돌잔치    | first birthday                     |
 | 볼고기    | fish                               |
 | 밀가루    | flour                              |
@@ -140,8 +144,10 @@ weight: 1
 | 헬스장    | gym                                |
 | 머리 모양 | hairstyle                          |
 | 모자      | hat                                |
+| 건강      | health                             |
 | 마음      | heart                              |
 | 키        | height                             |
+| 유전      | heredity                           |
 | 휴가      | holiday                            |
 | 고향      | hometown                           |
 | 숙제      | homework                           |
@@ -171,6 +177,7 @@ weight: 1
 | 입슬      | lips                               |
 | 전제      | long-term deposit                  |
 | 저심      | lunch                              |
+| 가사      | lyrics                             |
 | 집지      | magazine                           |
 | 주인공    | main character                     |
 | 예절      | manners                            |
@@ -178,11 +185,13 @@ weight: 1
 | 지도      | map                                |
 | 시장      | market                             |
 | 마트      | mart                               |
+| 의미      | meaning                            |
 | 추억      | memories                           |
 | 기억      | memory                             |
 | 문자      | message                            |
 | 방식      | method                             |
 | 방법      | method                             |
+| 중간고사  | midterm                            |
 | 실수      | mistake                            |
 | 달        | month                              |
 | 입        | mouth                              |
@@ -239,6 +248,7 @@ weight: 1
 | 구리기사  | repairman                          |
 | 답장      | reply                              |
 | 식당      | resturant                          |
+| 성적      | result                             |
 | 부자      | rich person, father/son            |
 | 오른손    | right hand                         |
 | 반지      | ring (jewelry)                     |
@@ -263,6 +273,7 @@ weight: 1
 | 어순      | sentence structure                 |
 | 백화점    | shopping mall                      |
 | 어깨      | shoulders                          |
+| 가수      | singer                             |
 | 세면대    | sink, basin                        |
 | 자매      | sister                             |
 | 상황      | situation                          |

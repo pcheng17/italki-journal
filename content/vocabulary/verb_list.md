@@ -36,6 +36,7 @@ weight: 2
 | 가져오다      | to bring here                            |
 | 우연히 만나다 | to bump into                             |
 | 사다          | to buy                                   |
+| 계산하다      | to calculate                             |
 | 부르다        | to call, to sing (불러요)                |
 | 잡다          | to catch (a ball)                        |
 | 도전하다      | to challenge                             |
@@ -102,6 +103,7 @@ weight: 2
 | 구하다        | to look for                              |
 | 기대가 되다   | to look forward to                       |
 | 살을 빠지다   | to lose weight                           |
+| 유지하다      | to maintain                              |
 | 만들다        | to make                                  |
 | 결정하다      | to make a decision                       |
 | 실수하다      | to make a mistake                        |
@@ -110,6 +112,7 @@ weight: 2
 | 의미하다      | to mean                                  |
 | 만나다        | to meet                                  |
 | 그립다        | to miss, to long for                     |
+| 놓치다        | to miss, to lose                         |
 | 오해하다      | to misunderstand                         |
 | 옮기다        | to move (an object)                      |
 | 이사하다      | to move (relocate)                       |
