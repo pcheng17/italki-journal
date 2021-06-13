@@ -19,6 +19,7 @@ weight: 3
 | 밝다       | to be bright                         |
 | 바쁘다     | to be busy                           |
 | 싸다       | to be cheap                          |
+| 맑다       | to be clear                          |
 | 친하다     | to be close (relationship)           |
 | 춥다       | to be cold                           |
 | 불편하다   | to be comfortable                    |
@@ -56,8 +57,8 @@ weight: 3
 | 지각하다   | to be late (for school or work)      |
 | 게으르다   | to be lazy                           |
 | 남다       | to be left                           |
-| 가볍다     | to be light                          |
 | 연하다     | to be light (in color or taste)      |
+| 가볍다     | to be light (weight)                 |
 | 길다       | to be long                           |
 | 운이 좋다  | to be lucky                          |
 | 고급스럽다 | to be luxurious                      |
@@ -88,8 +89,6 @@ weight: 3
 | 사교적이다 | to be social                         |
 | 특별하다   | to be special                        |
 | 맵다       | to be spicy                          |
-| 맑다       | to be sunny                          |
-| 맑다       | to be sunny, to be clear             |
 | 놀라다     | to be surprised                      |
 | 높다       | to be tall                           |
 | 똑같다     | to be the same                       |

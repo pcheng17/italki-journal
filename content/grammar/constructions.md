@@ -51,6 +51,6 @@ tense, we do conjugate.
 changes the meaning of adjective from "be (adjective)" to "get/become (adjective)."
 
 [Verb + ~게
-되](https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-94/#941)
+되다](https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-94/#941)
 can be translated to the phrase "to end up." Using this form indicates that the events that occured
 happened out of one's control, almost by change or fate.
