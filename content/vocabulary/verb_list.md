@@ -132,7 +132,7 @@ weight: 2
 | 약속하다      | to promise                               |
 | 놓다          | to put                                   |
 | 격리하다      | to quarantine                            |
-| 비가 오다     | to rain (literally, the rain comes)      |
+| 비가 오다     | to rain                                  |
 | 올리다        | to raise                                 |
 | 읽다          | to read                                  |
 | 받다          | to receive                               |
@@ -162,7 +162,6 @@ weight: 2
 | 지내다        | to spend (time), to stay                 |
 | 정지하다      | to stop                                  |
 | 공부하다      | to study                                 |
-| 고생하다      | to suffer from                           |
 | 고생하다      | to suffer from                           |
 | 맞다          | to suit                                  |
 | 수영하다      | to swim                                  |
