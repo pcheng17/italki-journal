@@ -76,6 +76,7 @@ weight: 2
 | 느끼다        | to feel                                  |
 | 찾다          | to find, to withdraw                     |
 | 끝나다        | to finish, to end                        |
+| 고치다        | to fix                                   |
 | 살을 찌다     | to gain weight                           |
 | 취직하다      | to get a job                             |
 | 끼다          | to get caught                            |
@@ -102,6 +103,7 @@ weight: 2
 | 듣다          | to listen (ㄷ to ㄹ conjugation)         |
 | 구하다        | to look for                              |
 | 기대가 되다   | to look forward to                       |
+| 잃어버리다    | to lose, to misplace                     |
 | 살을 빠지다   | to lose weight                           |
 | 유지하다      | to maintain                              |
 | 만들다        | to make                                  |

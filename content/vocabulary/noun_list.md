@@ -24,12 +24,15 @@ weight: 1
 | 아무거나  | anything                           |
 | 아파트    | apartment                          |
 | 외모      | appearance                         |
+| 지역      | area                               |
 | 팔        | arm                                |
 | 아로마    | aroma                              |
 | 선수      | athlete                            |
 | 분위기    | atmosphere                         |
+| 이모      | aunt                               |
 | 가을      | autumn                             |
 | 곱슬머리  | baby hair                          |
+| 배경      | background                         |
 | 배경      | background                         |
 | 가방      | bag/backpack                       |
 | 공        | ball                               |
@@ -58,6 +61,7 @@ weight: 1
 | 카메라    | camera                             |
 | 향초      | candle                             |
 | 당근      | carrot                             |
+| 성당      | Catholic church                    |
 | 핸드폰    | cell phone                         |
 | 의자      | chair                              |
 | 변화      | change (difference)                |
@@ -86,6 +90,7 @@ weight: 1
 | 요리      | cuisine                            |
 | 형용      | description                        |
 | 세제      | detergent                          |
+| 사투리    | dialect, slang                     |
 | 사전      | dictionary                         |
 | 차이      | difference                         |
 | 디퓨저    | diffuser                           |
@@ -104,6 +109,7 @@ weight: 1
 | 지구      | Earth                              |
 | 계란      | egg                                |
 | 영국      | England                            |
+| 환경      | environment                        |
 | 환경      | environment                        |
 | 분위기    | environment, physical surroundings |
 | 지우개    | eraser                             |
@@ -135,6 +141,7 @@ weight: 1
 | 풀 수업   | full class                         |
 | 난리      | fuss, mess                         |
 | 나중      | future                             |
+| 정원      | garden                             |
 | 마늘      | garlic                             |
 | 모임      | gathering                          |
 | 안경      | glasses                            |
@@ -154,6 +161,7 @@ weight: 1
 | 병원      | hospital                           |
 | 집        | house, home                        |
 | 집들이    | house-warming party                |
+| 주택      | housing                            |
 | 남편      | husband                            |
 | 얼음 찜질 | ice pack                           |
 | 이상형    | ideal type                         |
@@ -178,6 +186,7 @@ weight: 1
 | 전제      | long-term deposit                  |
 | 저심      | lunch                              |
 | 가사      | lyrics                             |
+| 기계      | machine                            |
 | 집지      | magazine                           |
 | 주인공    | main character                     |
 | 예절      | manners                            |
@@ -204,6 +213,7 @@ weight: 1
 | 연극      | musical                            |
 | 낮잠      | nap                                |
 | 목걸이    | necklace                           |
+| 동네      | neighborhood                       |
 | 신문      | news, newspaper                    |
 | 야시장    | night market                       |
 | 공강      | no class                           |

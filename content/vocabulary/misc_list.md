@@ -27,6 +27,7 @@ weight: 5
 | 가짜      | fake                                 |
 | 먼저      | first                                |
 | 일위      | first place                          |
+| 앞으로    | in the future, from now on           |
 | 예전에    | in the past                          |
 | 딱        | just right                           |
 | 이따가    | later                                |
@@ -40,4 +41,5 @@ weight: 5
 | 인생 단계 | stage of life                        |
 | 그런      | that type                            |
 | 이런      | this type                            |
+| 활씬      | to be a lot more                     |
 | 무조건    | unconditionally                      |
