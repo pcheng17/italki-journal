@@ -51,6 +51,7 @@ weight: 2
 | 확인하다      | to confirm                               |
 | 연릭하다      | to contact                               |
 | 요리하다      | to cook                                  |
+| 들다          | to cost                                  |
 | 자르다        | to cut                                   |
 | 사귀다        | to date someone                          |
 | 줄다          | to decrease, to diminish                 |
@@ -94,6 +95,7 @@ weight: 2
 | 걸다          | to hang                                  |
 | 회의하다      | to have a meeting                        |
 | 돕다          | to help                                  |
+| 차계를 지내다 | to hold a memorial service               |
 | 늘다          | to increase, to improve                  |
 | 초대하다      | to invite                                |
 | 조깅하다      | to jog                                   |
@@ -125,6 +127,7 @@ weight: 2
 | 실례하다      | to parden                                |
 | 돌아가시다    | to pass away (formal)                    |
 | 쓰다듬다      | to pat                                   |
+| 서배 하다     | to perform a New Year's bow              |
 | 들다          | to pick up                               |
 | 계획하다      | to plan                                  |
 | 심다          | to plant                                 |
@@ -182,6 +185,7 @@ weight: 2
 | 끄다          | to turn off                              |
 | 쓰다          | to use                                   |
 | 컴퓨터를 하다 | to use the computer                      |
+| 성묘를 하다   | to visit one's grave                     |
 | 기다리다      | to wait                                  |
 | 일어나다      | to wake up                               |
 | 걷다          | to walk (ㄷ to ㄹ conjugation)           |

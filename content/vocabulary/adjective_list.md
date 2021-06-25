@@ -102,4 +102,5 @@ weight: 3
 | 따뜻하다    | to be warm                           |
 | 이상하아    | to be weird                          |
 | 어리다      | to be young                          |
+| 아예 없다   | to have nothing at all               |
 | 다양하다    | to have variety                      |
