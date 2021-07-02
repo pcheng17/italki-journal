@@ -24,6 +24,7 @@ weight: 1
 | 동물       | animal                             |
 | 아무거나   | anything                           |
 | 아파트     | apartment                          |
+| 앱         | app                                |
 | 외모       | appearance                         |
 | 지역       | area                               |
 | 팔         | arm                                |
@@ -103,10 +104,12 @@ weight: 1
 | 문         | door                               |
 | 기숙사     | dorm                               |
 | 쌍꺼풀     | double eyelid                      |
+| 다운로드   | download                           |
 | 시내       | downtown                           |
 | 그림       | drawing, painting                  |
 | 옷         | dress                              |
 | 술 자리    | drinking room                      |
+| 건조기     | drying machine                     |
 | 오리 고기  | duck (meat)                        |
 | 귀걸이     | earing                             |
 | 지구       | Earth                              |
@@ -177,12 +180,14 @@ weight: 1
 | 초대       | invitation                         |
 | 섬         | island                             |
 | 할로피노   | jalapeno                           |
+| 잼         | jam                                |
 | 일본       | Japan                              |
 | 어린       | kid                                |
 | 칼         | knife                              |
 | 송편       | Korean mochi                       |
 | 한과       | Korean traditional cookie          |
 | 양고기     | lamb                               |
+| 세탁기     | laundry machine                    |
 | 왼손       | left hand                          |
 | 편지       | letter                             |
 | 상추       | lettuce                            |
@@ -190,6 +195,7 @@ weight: 1
 | 대사       | line, dialogue, speech             |
 | 입슬       | lips                               |
 | 위치       | location (M)                       |
+| 연휴       | long holiday                       |
 | 전제       | long-term deposit                  |
 | 저심       | lunch                              |
 | 가사       | lyrics                             |
@@ -239,10 +245,12 @@ weight: 1
 | 기회       | opportunity (M)                    |
 | 순서       | order (sequence)                   |
 | 소포       | package, parcel                    |
+| 종이 봉투  | paper bag                          |
 | 택배       | parcel, package                    |
 | 부모님     | parents                            |
 | 공원       | park                               |
 | 여권       | passport                           |
+| 땅콩       | peanut                             |
 | 볼펜       | pen                                |
 | 연필       | pencil                             |
 | 후추       | pepper                             |
@@ -252,6 +260,7 @@ weight: 1
 | 담당       | person in charge                   |
 | 탁구       | ping pong                          |
 | 식물       | plant                              |
+| 비닐 봉투  | plastic bag                        |
 | 접시       | plate                              |
 | 오염       | pollution                          |
 | 똥         | poop                               |
@@ -261,10 +270,12 @@ weight: 1
 | 가격       | price                              |
 | 가성비     | price-to-performance ratio         |
 | 제품       | product                            |
+| 공휴일     | public holiday                     |
 | 품질       | quality                            |
 | 토끼       | rabbit                             |
 | 라멘       | ramen                              |
 | 이유       | reason                             |
+| 팥         | red bean                           |
 | 냉장고     | refrigerator                       |
 | 사이       | relation                           |
 | 구리기사   | repairman                          |
@@ -345,7 +356,7 @@ weight: 1
 | 휴지       | tissue                             |
 | 주제       | topic                              |
 | 전통놀이   | traditional games                  |
-| 평절       | traditional holiday                |
+| 명절       | traditional holiday                |
 | 교통       | traffic                            |
 | 기차       | train                              |
 | 번역사     | translator                         |
@@ -355,6 +366,7 @@ weight: 1
 | 단위       | unit (M)                           |
 | 대학교     | university                         |
 | 휴가       | vacation                           |
+| 청소기     | vaccuum                            |
 | 야채       | vegetable                          |
 | 전망       | view, outlook                      |
 | 경치       | view (scenery view)                |
