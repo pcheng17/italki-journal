@@ -35,7 +35,6 @@ weight: 2
 | 가져오다        | to bring (here)                          |
 | 가져오다        | to bring here                            |
 | 우연히 만나다   | to bump into                             |
-| 세탁기를 돌리다 | to burn on the laundry machine           |
 | 사다            | to buy                                   |
 | 계산하다        | to calculate                             |
 | 부르다          | to call, to sing (불러요)                |
@@ -187,6 +186,7 @@ weight: 2
 | 만지다          | to touch                                 |
 | 갈아타다        | to transfer                              |
 | 끄다            | to turn off                              |
+| 세탁기를 돌리다 | to turn on the laundry machine           |
 | 청소기를 돌리다 | to turn on the vaccuum                   |
 | 쓰다            | to use                                   |
 | 컴퓨터를 하다   | to use the computer                      |
