@@ -36,6 +36,7 @@ weight: 5
 | 설날      | Korean New Year                      |
 | 이따가    | later                                |
 | 추석      | Mid-Autumn festival                  |
+| 중간      | middle                               |
 | 꼭        | must                                 |
 | 전혀 안   | never                                |
 | _박, _일  | _ nights, _ days                     |
