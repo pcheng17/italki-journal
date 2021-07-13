@@ -29,6 +29,7 @@ weight: 5
 | 일위      | first place                          |
 | 한글날    | Hangul Day                           |
 | 만약에    | If ...                               |
+| 바로      | immediately                          |
 | 앞으로    | in the future, from now on           |
 | 예전에    | in the past                          |
 | 딱        | just right                           |

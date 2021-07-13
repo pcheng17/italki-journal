@@ -29,6 +29,7 @@ weight: 2
 | 근무하다        | to be on duty                            |
 | 승진하다        | to be promoted                           |
 | 야단을 맞다     | to be scolded                            |
+| 끓다            | to boil                                  |
 | 예약하다        | to book (hotel, restaurant), to reserve  |
 | 예매하다        | to book (tickets)                        |
 | 가져가다        | to bring (away)                          |
@@ -78,9 +79,11 @@ weight: 2
 | 기대하다        | to expect                                |
 | 빠지다          | to fall into (especially water)          |
 | 느끼다          | to feel                                  |
+| 촬영하다        | to film                                  |
 | 찾다            | to find, to withdraw                     |
 | 끝나다          | to finish, to end                        |
 | 고치다          | to fix                                   |
+| 튀기다          | to fry                                   |
 | 살을 찌다       | to gain weight                           |
 | 취직하다        | to get a job                             |
 | 끼다            | to get caught                            |
@@ -121,6 +124,7 @@ weight: 2
 | 그립다          | to miss, to long for                     |
 | 놓치다          | to miss, to lose                         |
 | 오해하다        | to misunderstand                         |
+| 보습하다        | to moisturize                            |
 | 옮기다          | to move (an object)                      |
 | 이사하다        | to move (relocate)                       |
 | 필요하다        | to need                                  |
@@ -168,6 +172,8 @@ weight: 2
 | 걸리다          | to spend (time), to catch (a cold)       |
 | 보내다          | to spend (time), to send                 |
 | 지내다          | to spend (time), to stay                 |
+| 찌다            | to steam                                 |
+| 볶다            | to stir fry                              |
 | 정지하다        | to stop                                  |
 | 공부하다        | to study                                 |
 | 고생하다        | to suffer from                           |
@@ -196,6 +202,7 @@ weight: 2
 | 걷다            | to walk (ㄷ to ㄹ conjugation)           |
 | 세수하다        | to wash (face, brush teeth)              |
 | 물을 주다       | to water                                 |
+| 미백하다        | to whiten                                |
 | 닦다            | to wipe                                  |
 | 일하다          | to work                                  |
 | 적다, 쓰다      | to write                                 |

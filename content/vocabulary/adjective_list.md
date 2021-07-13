@@ -51,6 +51,7 @@ weight: 3
 | 무겁다      | to be heavy                          |
 | 덥다        | to be hot                            |
 | 배고프다    | to be hungry                         |
+| 중요하다    | to be important                      |
 | 불가능하다  | to be impossible                     |
 | 재미있다    | to be interesting/fun                |
 | 내성적이다  | to be introverted                    |
@@ -68,11 +69,12 @@ weight: 3
 | 현대적이다  | to be modern                         |
 | 가깝다      | to be near                           |
 | 새롭다      | to be new                            |
-| 시끄럽다    | to be noisy                          |
+| 시끄럽다    | to be noisy, to be loud              |
 | 어르다      | to be old                            |
 | 평범하다    | to be ordinary (M)                   |
 | 가능하다    | to be possible                       |
 | 예쁘다      | to be pretty                         |
+| 조용하다    | to be quiet                          |
 | 조용하다    | to be quiet                          |
 | 시원하다    | to be refreshing                     |
 | 만족하다    | to be satisfied                      |
