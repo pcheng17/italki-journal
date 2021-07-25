@@ -45,6 +45,7 @@ weight: 2
 | 청소하다        | to clean                                 |
 | 닦다            | to clean, to wipe, to brush              |
 | 닫다            | to close                                 |
+| 모이다          | to collect                               |
 | 왔다 가다       | to come and leave                        |
 | 들다            | to come in, to enter                     |
 | 나오다          | to come out, to appear                   |
@@ -92,6 +93,7 @@ weight: 2
 | 막히다          | to get stuck                             |
 | 주다            | to give                                  |
 | 낳다            | to give birth                            |
+| 포기하다        | to give up                               |
 | 갔다 오다       | to go and come back                      |
 | 산책하다        | to go on a walk                          |
 | 구경하다        | to go sightseeing                        |
@@ -105,6 +107,7 @@ weight: 2
 | 늘다            | to increase, to improve                  |
 | 초대하다        | to invite                                |
 | 조깅하다        | to jog                                   |
+| 족다            | to kill                                  |
 | 알다            | to know                                  |
 | 배우다          | to learn                                 |
 | 떠나다          | to leave                                 |
@@ -142,6 +145,7 @@ weight: 2
 | 선호하다        | to prefer                                |
 | 준비하다        | to prepare                               |
 | 약속하다        | to promise                               |
+| 보증하다        | to promise                               |
 | 놓다            | to put                                   |
 | 격리하다        | to quarantine                            |
 | 비가 오다       | to rain                                  |

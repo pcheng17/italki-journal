@@ -47,6 +47,7 @@ weight: 1
 | 소고기      | beef                               |
 | 자전거      | bicycle                            |
 | 생일        | birthday                           |
+| 소개팅      | blind date                         |
 | 블로그      | blog                               |
 | 블루베리    | blueberry                          |
 | 하숙집      | boarding house                     |

@@ -33,6 +33,7 @@ weight: 3
 | 위험하다    | to be dangerous                      |
 | 진하다      | to be dark                           |
 | 다르다      | to be different (달라요)             |
+| 건조하다    | to be dry                            |
 | 창피하다    | to be embarrassed                    |
 | 즐겁다      | to be enjoyable                      |
 | 비싸다      | to be expensive                      |
@@ -50,6 +51,7 @@ weight: 3
 | 건강하다    | to be healthy                        |
 | 무겁다      | to be heavy                          |
 | 덥다        | to be hot                            |
+| 습하다      | to be humid                          |
 | 배고프다    | to be hungry                         |
 | 중요하다    | to be important                      |
 | 불가능하다  | to be impossible                     |
